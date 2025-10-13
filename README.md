@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi, I’m Stijin Earnest Abrham 👋<br>I’m currently pursuing an Integrated MSc in Computer Science with a specialization in AI and ML.<br>I enjoy web development and exploring blockchain technologies.
+Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated MSc in Computer Science with a specialization in AI and ML.<br>I enjoy web development and exploring blockchain technologies.
 
 
 ## 🌐 Socials:
