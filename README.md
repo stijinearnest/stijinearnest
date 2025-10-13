@@ -1,11 +1,14 @@
+![_1-ezgif com-gif-maker](https://github.com/user-attachments/assets/c52f6a9c-19c0-429e-8a07-95fac2a72317)
+
 ## Hi there 👋
+
 
 
 # 💫 About Me:
 Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated MSc in Computer Science with a specialization in AI and ML.<br>I enjoy web development and exploring blockchain technologies. 
 
 
-![_-ezgif com-gif-maker](https://github.com/user-attachments/assets/f10a443c-4ad8-495b-862c-33a405ef78fd)                            
+                       
 
 
 
@@ -17,7 +20,7 @@ Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stijinearnest&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=stijinearnest&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stijinearnest&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stijinearnest&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)          ![_-ezgif com-gif-maker](https://github.com/user-attachments/assets/f10a443c-4ad8-495b-862c-33a405ef78fd)     
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stijinearnest&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
@@ -34,6 +37,7 @@ Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stijin_earnest) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stijinearnest@gmail.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/stijinearnest) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![zenitsu-ezgif com-gif-maker](https://github.com/user-attachments/assets/1884d683-c588-45ce-868c-933f7a31a890)
 <!--
 **stijinearnest/stijinearnest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
