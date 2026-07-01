@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated MSc in Computer Science with a specialization in AI and ML.<br>I enjoy UI/UX designing and exploring AI and ML development.
+Hi, I’m Stijin Earnest Abraham 👋<br>I’m currently pursuing an Integrated MSc in Computer Science with a specialization in AI and ML.<br>I enjoy UI/UX designing and exploring AI and ML technologies.
 
 
                        
